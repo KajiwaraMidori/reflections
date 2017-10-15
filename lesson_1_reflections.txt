@@ -1,0 +1,20 @@
+1) How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+it was easy for me to understand the difference using diff command since it
+I don't have to check the differences manually.
+
+2) How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+If you got some errors on a newer version, you can always go back to the point
+with no errors.To keep the program that works corretly is essential manner
+for engineers.
+
+3)What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, 
+like Google Docs does?
+
+It's easier for engineers to put meanings to each commits if you use git.
+The good point of auto-saving is that you almost never loose your editing data.
+
+
